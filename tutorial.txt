@@ -1,0 +1,16 @@
+tutorial simples:
+
+-copia e cola o texto no travazap.txt
+(use CTRL+A CTRL+C para facilitar)
+
+-abra o zap zap web
+
+-clique com o botão direito
+e vai em "inspecionar"
+
+-vá na aba "console"
+
+-cole o código (CTRL+V)
+(caso o console não permitir, leia o erro e digita o bagulho lá pra liberar acesso e cola dnv)
+
+-só aprecie
